@@ -85,7 +85,11 @@ SSH configuration 우측 ... -> 좌측 상단 + -> Host -> OK
 
  <img width="912" alt="Screen Shot 2020-11-05 at 7 10 30 PM" src="https://user-images.githubusercontent.com/66157320/98227380-99c23b80-1f9a-11eb-8c9e-d2b31ac82c1c.png">
  
- 등록했다면 AUTODETECT 후 OK 해준다.
+등록했다면 OK 해준다.
+
+<img width="1904" alt="Screen Shot 2020-11-05 at 7 27 43 PM" src="https://user-images.githubusercontent.com/66157320/98229236-fe7e9580-1f9c-11eb-971f-101610347e38.png">
+
+이제 ide에서 terminal이나 라즈베리파이의 저장소에 접근할 수 있게 되어 작업 후 라즈베리파이에서 실행시킬 수 있게된다.
 
 ## Running the tests / 테스트의 실행
 

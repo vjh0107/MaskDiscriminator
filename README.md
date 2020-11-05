@@ -1,6 +1,7 @@
 # MaskDiscriminator / 마스크 판독기
 
-https://user-images.githubusercontent.com/66157320/98209661-a8045d80-1f82-11eb-9b71-858356d9527b.jpg
+![KakaoTalk_20201105_161538654](https://user-images.githubusercontent.com/66157320/98209661-a8045d80-1f82-11eb-9b71-858356d9527b.jpg)
+
 
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 

@@ -58,7 +58,10 @@ Add additional notes about how to deploy this on a live system / 라이브 시�
 ## Built With / 누구랑 만들었나요?
 
 * 박준형(vjh0107@naver.com) - 프로젝트 전체 제작
-* 황인환 선생님(wooryi@naver.com) - 프로젝트에 필요한 제품 제공
+
+## Contributor / 기여자
+
+* 금정고등학교 황인환 선생님(wooryi@naver.com) - 프로젝트에 필요한 제품 제공
 
 ## License / 라이센스
 

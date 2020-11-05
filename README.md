@@ -92,6 +92,8 @@ SSH configuration 우측 ... -> 좌측 상단 + -> Host -> OK
 
 이제 ide에서 terminal이나 라즈베리파이의 저장소에 접근할 수 있게 되어 작업 후 라즈베리파이에서 실행시킬 수 있게된다.
 
+
+
 ## Running the tests / 테스트의 실행
 
 어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
@@ -112,15 +114,15 @@ SSH configuration 우측 ... -> 좌측 상단 + -> Host -> OK
 
 ## Deployment / 배포
 
-Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
+오픈소스로 배포되었습니다
 
-## Built With / 누구랑 만들었나요?
+## Built With Who? / 누가 만들었나요?
 
-* 박준형(vjh0107@naver.com) - 프로젝트 전체 제작
+* 박준형(vjh0107@naver.com)
 
 ## Contributor / 기여자
 
-* 금정고등학교 황인환 선생님(wooryi@naver.com) - 프로젝트에 필요한 제품 제공
+* 금정고등학교 황인환 선생님(wooryi@naver.com)
 
 ## License / 라이센스
 

@@ -29,8 +29,8 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 
 아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
 <div>
-<img width="778" alt="Screen Shot 2020-11-05 at 5 26 21 PM" src="https://user-images.githubusercontent.com/66157320/98217500-ebb09480-1f8d-11eb-81f0-cafded6f3d01.png">
-<img width="778" alt="Screen Shot 2020-11-05 at 5 42 20 PM" src="https://user-images.githubusercontent.com/66157320/98217809-55c93980-1f8e-11eb-81fb-3bf5ea6f05f4.png">
+<img width="400" alt="Screen Shot 2020-11-05 at 5 26 21 PM" src="https://user-images.githubusercontent.com/66157320/98217500-ebb09480-1f8d-11eb-81f0-cafded6f3d01.png">
+<img width="400" alt="Screen Shot 2020-11-05 at 5 42 20 PM" src="https://user-images.githubusercontent.com/66157320/98217809-55c93980-1f8e-11eb-81fb-3bf5ea6f05f4.png">
 </div>
 
 ```

@@ -33,6 +33,9 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 <img width="500" alt="Screen Shot 2020-11-05 at 5 42 20 PM" src="https://user-images.githubusercontent.com/66157320/98217809-55c93980-1f8e-11eb-81fb-3bf5ea6f05f4.png">
 </div>
 
+project는 기본 pure python으로 생성해주세요
+
+
 ```
 예시
 ```

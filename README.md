@@ -22,12 +22,15 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
   - pi camera 5MP
   
 ```
-예시
+11
 ```
 
 ### Installing / 설치
 
 아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
+
+<img width="778" alt="Screen Shot 2020-11-05 at 5 26 21 PM" src="https://user-images.githubusercontent.com/66157320/98217500-ebb09480-1f8d-11eb-81f0-cafded6f3d01.png">
+
 
 ```
 예시

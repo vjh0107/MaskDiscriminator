@@ -78,7 +78,7 @@ SFTP 통신을 위해 먼저 SSH 호스트를 등록시켜줍니다
 
 Host에는 아이피 주소를 넣습니다. Username의 디폴트는 pi 이며, password의 default는 raspberry입니다
 
-TEST CONNECTION 에서 SUCCESS가 뜨시는지 확인해주세요
+TEST CONNECTION 에서 성공적으로 연결되었는지 확인해주세요
 
 ```
 SSH configuration 우측 ... -> 좌측 상단 + -> Host -> OK

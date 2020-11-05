@@ -37,7 +37,7 @@ project는 기본 pure python으로 생성해주세요
 
 
 ```
-예시
++ New Project -> 프로젝트 설정 후 -> CREATE
 ```
 
 ## Running the tests / 테스트의 실행

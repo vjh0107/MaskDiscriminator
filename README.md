@@ -1,4 +1,4 @@
-# Project Title / 프로젝트 이름
+# MaskDiscriminator / 마스크 판독기
 
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
@@ -47,12 +47,8 @@ Add additional notes about how to deploy this on a live system / 라이브 시�
 
 ## Built With / 누구랑 만들었나요?
 
-* [이름](링크) - 무엇 무엇을 했어요
-* [Name](Link) - Create README.md
-
-## Contributiong / 기여
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
+* 박준형(링크) - 프로젝트 전체 제작
+* 황인환 선생님(링크) - 프로젝트에 필요한 제품 구매
 
 ## License / 라이센스
 

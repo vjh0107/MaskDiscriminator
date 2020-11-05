@@ -42,7 +42,7 @@ project는 기본 pure python으로 생성해주세요
 
 <img width="1792" alt="Screen Shot 2020-11-05 at 6 17 51 PM" src="https://user-images.githubusercontent.com/66157320/98221691-4ac4d800-1f93-11eb-81f8-0f5e56d1dde2.png">
 
-프로젝트 생성이 끝났다면 이제 라즈베리파이와 remote host를 연결해줄 설정창을 엽니다.
+프로젝트 생성이 끝났다면 이제 라즈베리파이와 remote host를 연결해줄 설정창을 엽니다
 
 ```
 Tools -> Deployment -> Configuration…
@@ -54,12 +54,38 @@ Tools -> Deployment -> Configuration…
 <img width="330" alt="Screen Shot 2020-11-05 at 5 57 18 PM" src="https://user-images.githubusercontent.com/66157320/98222126-c888e380-1f93-11eb-9704-f361b28be697.png">
 </div>
 
+SFTP 통신을 할 서버를 추가합니다
+
 ```
-+ -> SFTP -> 서버이름 정한 뒤 OK
+좌측 상단 + -> SFTP -> 서버이름 정한 뒤 OK
+```
+![Cap 2017-07-03 15-46-02-275](https://user-images.githubusercontent.com/66157320/98226515-7b0f7500-1f99-11eb-96ae-5e75026cd2b5.png)
+
+라즈베리파이의 설정에서 SSH 통신과 카메라 사용여부를 Enable 해주세요
+
+```
+Preferences -> Raspberry Pi Configuration -> Interfaces -> SSH Enable, Camera Enable
 ```
 
+<div>
+<img width="250" alt="Screen Shot 2020-11-05 at 6 01 02 PM" src="https://user-images.githubusercontent.com/66157320/98223048-ec98f480-1f94-11eb-811e-ef2a10e938f1.png">
+<img width="250" alt="Screen Shot 2020-11-05 at 6 01 28 PM" src="https://user-images.githubusercontent.com/66157320/98223063-f4589900-1f94-11eb-8d24-67b7e2cbe8f4.png">
+<img width="400" alt="Screen Shot 2020-11-05 at 6 02 01 PM" src="https://user-images.githubusercontent.com/66157320/98223083-f9b5e380-1f94-11eb-8980-c4a061c51ade.png">
+</div>
 
+SFTP 통신을 위해 먼저 SSH 호스트를 등록시켜줍니다
 
+Host에는 아이피 주소를 넣습니다. Username의 디폴트는 pi 이며, password의 default는 raspberry입니다
+
+TEST CONNECTION 에서 SUCCESS가 뜨시는지 확인해주세요
+
+```
+SSH configuration 우측 ... -> 좌측 상단 + -> Host -> OK
+```
+
+ <img width="912" alt="Screen Shot 2020-11-05 at 7 10 30 PM" src="https://user-images.githubusercontent.com/66157320/98227380-99c23b80-1f9a-11eb-8c9e-d2b31ac82c1c.png">
+ 
+ 등록했다면 AUTODETECT 후 OK 해준다.
 
 ## Running the tests / 테스트의 실행
 

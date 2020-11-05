@@ -49,14 +49,16 @@ Add additional notes about how to deploy this on a live system / 라이브 시�
 
 ## Built With / 누구랑 만들었나요?
 
-* 박준형(링크) - 프로젝트 전체 제작
-* 황인환 선생님(링크) - 프로젝트에 필요한 제품 구매
+* 박준형(vjh0107@naver.com) - 프로젝트 전체 제작
+* 황인환 선생님(wooryi@naver.com) - 프로젝트에 필요한 제품 제공
 
 ## License / 라이센스
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://https://github.com/vjh0107/MaskDiscriminator/blob/main/LICENSE) file for details / 이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
 
 ## Acknowledgments / 감사의 말
+
+원하는 작품을 만들게 지원해주신 제 모교와 소프트웨어 동아리 황인환 선생님께 감사의 말씀을 드립니다.
 
 * Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
 * Inspiration / 영감

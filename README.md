@@ -7,12 +7,20 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 
 ## Getting Started / 어떻게 시작하나요?
 
-이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
-
 ### Prerequisites / 선행 조건
 
-아래 사항들이 설치가 되어있어야합니다.
+아래 사항들은 제가 개발한 환경입니다.
 
+소프트웨어:
+  - MacOS (저는 macos에서 시작하나 윈도우에서도 충분히 가능합니다.)
+  - Pycharm Ultimate (무료버전을 사용할 경우 interpreter 사용이 불가능합니다.)
+  - 라즈베리파이 os (https://www.raspberrypi.org/downloads/)
+  
+하드웨어:
+  - MacOS Catalina 를 지원하는 기기
+  - 라즈베리파이 B+ (라즈베리파이 os가 설치되어있고 8GB 이상의 저장소를 가지고 있는 기기)
+  - pi camera 5MP
+  
 ```
 예시
 ```

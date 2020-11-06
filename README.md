@@ -28,71 +28,7 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 
 ### Installing / 설치
 
-아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다
-<div>
-<img width="400" alt="Screen Shot 2020-11-05 at 5 26 21 PM" src="https://user-images.githubusercontent.com/66157320/98217500-ebb09480-1f8d-11eb-81f0-cafded6f3d01.png">
-<img width="400" alt="Screen Shot 2020-11-05 at 5 42 20 PM" src="https://user-images.githubusercontent.com/66157320/98217809-55c93980-1f8e-11eb-81fb-3bf5ea6f05f4.png">
-</div>
-
-project는 기본 pure python으로 생성해주세요
-
-
-```
-+ New Project -> 프로젝트 설정 후 -> CREATE
-```
-
-<img width="1792" alt="Screen Shot 2020-11-05 at 6 17 51 PM" src="https://user-images.githubusercontent.com/66157320/98221691-4ac4d800-1f93-11eb-81f8-0f5e56d1dde2.png">
-
-프로젝트 생성이 끝났다면 이제 라즈베리파이와 remote host를 연결해줄 설정창을 엽니다
-
-```
-Tools -> Deployment -> Configuration…
-```
-
-<div>
-<img width="300" alt="Screen Shot 2020-11-05 at 5 56 31 PM" src="https://user-images.githubusercontent.com/66157320/98221537-18b37600-1f93-11eb-9c4f-29ebd251c2ca.png">
-<img width="135" alt="Screen Shot 2020-11-05 at 6 25 00 PM" src="https://user-images.githubusercontent.com/66157320/98222506-4351fe80-1f94-11eb-97e6-38947ec7e0ea.png">
-<img width="330" alt="Screen Shot 2020-11-05 at 5 57 18 PM" src="https://user-images.githubusercontent.com/66157320/98222126-c888e380-1f93-11eb-9704-f361b28be697.png">
-</div>
-
-SFTP 통신을 할 서버를 추가합니다
-
-```
-좌측 상단 + -> SFTP -> 서버이름 정한 뒤 OK
-```
-![Cap 2017-07-03 15-46-02-275](https://user-images.githubusercontent.com/66157320/98226515-7b0f7500-1f99-11eb-96ae-5e75026cd2b5.png)
-
-라즈베리파이의 설정에서 SSH 통신과 카메라 사용여부를 Enable 해주세요
-
-```
-Preferences -> Raspberry Pi Configuration -> Interfaces -> SSH Enable, Camera Enable
-```
-
-<div>
-<img width="250" alt="Screen Shot 2020-11-05 at 6 01 02 PM" src="https://user-images.githubusercontent.com/66157320/98223048-ec98f480-1f94-11eb-811e-ef2a10e938f1.png">
-<img width="250" alt="Screen Shot 2020-11-05 at 6 01 28 PM" src="https://user-images.githubusercontent.com/66157320/98223063-f4589900-1f94-11eb-8d24-67b7e2cbe8f4.png">
-<img width="400" alt="Screen Shot 2020-11-05 at 6 02 01 PM" src="https://user-images.githubusercontent.com/66157320/98223083-f9b5e380-1f94-11eb-8980-c4a061c51ade.png">
-</div>
-
-SFTP 통신을 위해 먼저 SSH 호스트를 등록시켜줍니다
-
-Host에는 아이피 주소를 넣습니다. Username의 디폴트는 pi 이며, password의 default는 raspberry입니다
-
-TEST CONNECTION 에서 성공적으로 연결되었는지 확인해주세요
-
-```
-SSH configuration 우측 ... -> 좌측 상단 + -> Host -> OK
-```
-
- <img width="912" alt="Screen Shot 2020-11-05 at 7 10 30 PM" src="https://user-images.githubusercontent.com/66157320/98227380-99c23b80-1f9a-11eb-8c9e-d2b31ac82c1c.png">
- 
-등록했다면 OK 해준다.
-
-<img width="1904" alt="Screen Shot 2020-11-05 at 7 27 43 PM" src="https://user-images.githubusercontent.com/66157320/98229236-fe7e9580-1f9c-11eb-971f-101610347e38.png">
-
-이제 ide에서 terminal이나 라즈베리파이의 저장소에 접근할 수 있게 되어 작업 후 라즈베리파이에서 실행시킬 수 있게된다.
-
-
+[PyCharm 에서 SSH 통신을 통해 라즈베리파이에 접근하기](https://github.com/vjh0107/MaskDiscriminator/wiki/PyCharm-%EC%97%90%EC%84%9C-SSH-%ED%86%B5%EC%8B%A0%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EC%97%90-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0)
 
 ## Running the tests / 테스트의 실행
 

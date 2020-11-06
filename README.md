@@ -28,7 +28,8 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 
 ### Installing / 설치
 
-[PyCharm 에서 SSH 통신을 통해 라즈베리파이에 접근하기](https://github.com/vjh0107/MaskDiscriminator/wiki/PyCharm-%EC%97%90%EC%84%9C-SSH-%ED%86%B5%EC%8B%A0%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EC%97%90-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0)
+아래의 제 위키의 페이지들에 자세히 설명해놓았습니다
+1. [PyCharm 에서 SSH 통신을 통해 라즈베리파이에 접근하기](https://github.com/vjh0107/MaskDiscriminator/wiki/PyCharm-%EC%97%90%EC%84%9C-SSH-%ED%86%B5%EC%8B%A0%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EC%97%90-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0)
 
 ## Running the tests / 테스트의 실행
 

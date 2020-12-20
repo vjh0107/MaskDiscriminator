@@ -1,4 +1,4 @@
-# MaskDiscriminator with Deep Learning & Raspberry Pi / 라즈베리 파이에서 딥러닝을 이용한 마스크 판독기
+# MaskDiscriminator with Machine Learning & Raspberry Pi / 라즈베리 파이에서 머신러닝을 이용한 마스크 판독기
 
 ![KakaoTalk_20201105_161538654](https://user-images.githubusercontent.com/66157320/98209661-a8045d80-1f82-11eb-9b71-858356d9527b.jpg)
 
